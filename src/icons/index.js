@@ -1,0 +1,10 @@
+export { default as LogoIcon } from './logo-icon.svg';
+export { default as ArrowRight } from './chevron-right.svg';
+export { default as ArrowRightActive } from './chevron-right-2.svg';
+export { default as Key } from './key-square.svg'
+export { default as Square } from './square.svg';
+export { default as UserSquare } from './user-square.svg';
+export { default as Wallet } from './wallet-money.svg';
+export { default as Discount } from './discount-shape.svg';
+export { default as Question } from './message-question.svg';
+export { default as SearchIcon } from './search.svg';
